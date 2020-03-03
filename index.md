@@ -15,6 +15,11 @@ The second day focuses on digital approaches to capturing, displaying and studyi
 
 We invite proposals for 20 minute presentations which engage with any of the above topics or which reflect critically on the integration of digital tools into the study of art history and cultural heritage.
 
+**Submission website:**
+[button url="https://cmt3.research.microsoft.com/DAH2020/"]
+
+*Please note that you must register with the Microsoft Conference Management System in order to submit your abstract.*
+
 Deadline for submission: 22 March 2020.
 
 For questions, please contact encodingHeritage@gmail.com. 
