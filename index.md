@@ -3,6 +3,8 @@
 ## 12-13 June 2020, University of Oxford
 
 
+### COVID19/CORONAVIRUS UPDATE: Please note that the conference will most likely to be delayed to October or November 2020 due to recent events. Everyone who has submitted an abstract will be updated by email. This website will be updated when a new date is fixed. 
+
 Digital technologies are transforming the way in which scholars study visual sources and cultural heritage. Digitisation render collections more accessible, while computer vision algorithms enable scholars to trace patterns across large datasets of images and chart new avenues of research. At the same time, 3D modelling techniques capture and digitally preserve cultural heritage sites and artefacts threatened by war, climate change or over-tourism, while virtual reality transports audiences to distant palaces, monuments, or places of worship, reducing the impact both on those sites and the wider climate. 
 
 This conference brings together researchers, students, and professionals from art history, museology, digital humanities, geography, history, archeology, classics and computer science, who are interested in exploring digital approaches to the study of visual and material culture. The conference explores how researchers are integrating digital tools into their research, introduces new audiences to cutting edge technologies and methodologies, and pauses to critically assess the opportunities and challenges that such approaches present.
